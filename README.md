@@ -22,6 +22,5 @@ The dataset has 2,075,259 rows and 9 columns. First calculate a rough estimate o
 We have used the data from the dates 2007-02-01 and 2007-02-02. One alternative is to read the data from just those dates rather than reading in the entire dataset and subsetting to those dates.
 
 You may find it useful to convert the Date and Time variables to Date/Time classes in R using the strptime() and as.Date() functions.
-
-
+Th output files uploaded are self explanatory and includes all the details as reuqired. 
 All the plots and r file is uploaded.
